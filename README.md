@@ -2,8 +2,8 @@
 
 ## Student Details
 
-**Name:** Abhiram Moreshwar Daflapurkar
-**Roll Number:** 24BCE10542
+**Name:** Dhruv
+**Roll Number:** 24BEY10008
 
 ---
 ##  Chosen Software
